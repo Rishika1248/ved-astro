@@ -1,0 +1,20 @@
+{
+  "name": "vedastro-master",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishika1248/ved-astro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishika1248/ved-astro/issues"
+  },
+  "homepage": "https://github.com/Rishika1248/ved-astro#readme"
+}
